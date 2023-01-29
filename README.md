@@ -1,5 +1,5 @@
 Freelance Mad Scientist/Engineer, up for anything Fun :)      
-CTO of [Dijkstra Labs](https://dijkstralabs.com/)Lead Big Data&ML Engineer [@John Snow Labs](https://www.johnsnowlabs.com/)          
+CTO of [Dijkstra Labs](https://dijkstralabs.com/), Lead Big Data&ML Engineer [@John Snow Labs](https://www.johnsnowlabs.com/)          
 You have a complex problem? Lets talk! 
 
 Worked on  and managed various libraries&projects in Big Data, Data Science and Blockchain using modern technologies such as Kubernetes, Docker, Spark, Kafka, Hadoop, Ethereum, and over 20 programming languages to create modern cloud-agnostic AI solutions, distributed applications and analytical dashboards.  
