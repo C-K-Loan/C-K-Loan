@@ -1,12 +1,16 @@
 # Christian Kasim Loan
 
-AI / ML Engineer working on **LLMs, multimodal systems, agents, and large-scale data platforms**.
+AI / ML Engineer working on **LLMs, multimodal AI, agent systems, and large-scale data platforms.**
 
 Work includes **fine-tuning, RLHF training, quantization, agent architectures, and distributed ML systems**.
 
 Currently building enterprise NLP and document AI systems at [John Snow Labs](https://www.johnsnowlabs.com/).
 
 Interested in distributed systems, AI agents, multimodal models, and unusual side projects.
+
+
+
+
 
 ---
 
