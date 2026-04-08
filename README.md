@@ -43,6 +43,7 @@ Interested in distributed systems, AI agents, multimodal models, and unusual sid
 
 | Project | Role / Contribution |
 |-------|----------------|
+| [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) | Creator — open-source Android automation framework. 35 MCP tools, skill system, live streaming dashboard. Give any AI agent a phone. |
 | [Dijkstra Labs](https://dijkstralabs.com/) | CTO — AI, Big Data, and distributed systems consulting |
 | [John Snow Labs Ecosystem](https://www.johnsnowlabs.com/) | Core development across enterprise NLP / AI libraries |
 | [NLU Library](https://nlu.johnsnowlabs.com/) | Created & lead development of high-level ML/NLP abstraction layer |
