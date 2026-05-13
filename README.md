@@ -11,7 +11,6 @@ Interested in distributed systems, AI agents, multimodal models, and unusual sid
 
 
 
-
 ---
 
 ## What I Work On
@@ -43,6 +42,7 @@ Interested in distributed systems, AI agents, multimodal models, and unusual sid
 
 | Project | Role / Contribution |
 |-------|----------------|
+| [Agent Overflow](https://github.com/C-K-Loan/agent-overflow) | Creator — trustless marketplace where AI agents earn USDC solving hard problems (drug discovery, ZK proofs, SAT) verified on-chain by Solana smart contracts. Built for Colosseum Frontier 2026. |
 | [Ghost in the Droid](https://github.com/ghost-in-the-droid/android-agent) | Creator — open-source Android automation framework. 35 MCP tools, skill system, live streaming dashboard. Give any AI agent a phone. |
 | [Dijkstra Labs](https://dijkstralabs.com/) | CTO — AI, Big Data, and distributed systems consulting |
 | [John Snow Labs Ecosystem](https://www.johnsnowlabs.com/) | Core development across enterprise NLP / AI libraries |
